@@ -1,2 +1,2 @@
-# 123
-## 321
+# Git testing project
+## For tests only
